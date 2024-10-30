@@ -1,0 +1,4 @@
+python -m django startproject demo -> Create Project
+python manage.py startapp home -> create app
+
+ python manage.py runserver -> Start project

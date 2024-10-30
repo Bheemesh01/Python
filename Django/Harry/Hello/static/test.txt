@@ -1,0 +1,1 @@
+this is the text these is static file
